@@ -7,28 +7,28 @@ This repository contains a curated selection of Python-based projects that showc
 ### 1. Queue Line Management System
 A Python application to simulate and manage queue lines efficiently.
 
-**Folder:** [`queue-line-management-system`](queue-line-management-system)
+**Folder:** [`queue-line-management-system`](projects/queue-line-management-system)
 
 ---
 
 ### 2. Student Grade Management System
 An application to manage student grades, calculate averages, and determine academic performance.
 
-**Folder:** [`student-grade-management-system`](student-grade-management-system)
+**Folder:** [`student-grade-management-system`](projects/student-grade-management-system)
 
 ---
 
 ### 3. Basic OOP Examples (Python)
 A set of basic examples to demonstrate Python's object-oriented programming principles.
 
-**Folder:** [`basic-oop-examples-python`](basic-oop-examples-python)
+**Folder:** [`basic-oop-examples-python`](projects/basic-oop-examples-python)
 
 ---
 
 ### 4. Prisoner Management System
 A system for managing prisoner records, sentence tracking, and related data.
 
-**Folder:** [`prisoner-management-system`](prisoner-management-system)
+**Folder:** [`prisoner-management-system`](projects/prisoner-management-system)
 
 ---
 
